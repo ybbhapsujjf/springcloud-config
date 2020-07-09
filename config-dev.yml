@@ -1,2 +1,2 @@
-server:
-  port: 8002
+config:
+  info: config-dev-version1
